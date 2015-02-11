@@ -29,6 +29,8 @@
 
 > 对_*Node.js*_相关技术有一定研究，熟练掌握Express框架、掌握Grunt、Jasmine、Yeoman 、Bower等工具使用.
 
+> 对Html5、 CSS3等前端技术有一定研究.
+
 > 对J2EE相关技术有一定研究，包括Spring、ibates、Hibernate等.
 
 > 对Java OSGI技术有一定研究，曾采用OSGI技术开发一个服务管理框架.
